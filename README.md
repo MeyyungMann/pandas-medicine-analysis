@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this project is to display my skills with **pandas** and data analysis. It demonstrates core data analyst competencies including:
+This project is a learning exercise where I followed and studied a Kaggle notebook to understand **Pandas** and data analysis. Through this project, I practiced the following techniques:
 
 - **Data loading and inspection** — reading CSVs, examining shape, columns, dtypes
 - **Data cleaning** — handling missing values, dropping unnecessary columns, parsing HTML content, string extraction with regex
@@ -14,7 +14,7 @@ The purpose of this project is to display my skills with **pandas** and data ana
 
 This project uses the [Assorted Medicine Dataset of Bangladesh](https://www.kaggle.com/datasets/ahmedshahriarsakib/assorted-medicine-dataset-of-bangladesh) from Kaggle, which contains data on medicines, generics, manufacturers, dosage forms, drug classes, and indications.
 
-The notebook is based on the Kaggle kernel by [Muhammed Tausif](https://www.kaggle.com/code/muhammedtausif/medicine-analytics-eda).
+The notebook is based on the Kaggle kernel by [Muhammed Tausif](https://www.kaggle.com/code/muhammedtausif/medicine-analytics-eda), with some "small" modifications to suit my learning preferences and coding style.
 
 ## How to Start
 
