@@ -1,0 +1,8 @@
+pandas
+numpy
+kaggle
+jupyter
+plotly
+matplotlib
+wordcloud
+beautifulsoup4
