@@ -1,4 +1,4 @@
-# Medicine Analytics - Exploratory Data Analysis
+# Pandas Medicine Analysis
 
 ## Purpose
 
@@ -35,7 +35,7 @@ The notebook is based on the Kaggle kernel by [Muhammed Tausif](https://www.kagg
 
 ```bash
 git clone <repository-url>
-cd medicin-analaytics-pandas
+cd pandas-medicine-analysis
 ```
 
 ### 3. Create a virtual environment (recommended)
@@ -68,7 +68,7 @@ The notebook automatically downloads the dataset from Kaggle into the `data/` fo
 ## Project Structure
 
 ```
-medicin-analaytics-pandas/
+pandas-medicine-analysis/
 ├── README.md
 ├── requirements.txt
 ├── main.ipynb      # Main analysis notebook
